@@ -6,6 +6,7 @@ Ensuring road safety has become a crucial issue for many countries across the wo
 
 Understanding the data of this case study is crucial for developing effective strategies to prevent road accidents. By analyzing the data, we can identify patterns and trends that can help us to better understand the underlying causes of accidents. This understanding can then be used to inform evidence-based policies and programs that can help to reduce the risk of accidents and improve road safety for all. I have collected the data from here under Open Government Licence.
 
-Kindly go through the blogs for more detail.
-https://manaliraut2.medium.com/16-years-of-uk-accidents-the-good-the-bad-and-the-preventable-part-1-774d05f8dc88?source=user_profile---------2----------------------------
-https://manaliraut2.medium.com/customer-personality-analysis-part-2-39602f8351c9?source=user_profile---------3----------------------------
+Kindly go through the blogs for more detail: https://manaliraut2.medium.com/16-years-of-uk-accidents-the-good-the-bad-and-the-preventable-part-1-774d05f8dc88
+
+If you find the article useful, You can buy me a book here : https://bmc.link/manaliraut
+ 
